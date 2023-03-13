@@ -8,8 +8,8 @@ from tests.base_test import BaseTest
 
 
 class TestCheckTrendyolWeb(BaseTest):
-    valid_mail = "enes199689@gmail.com"
-    valid_password = "852456as"
+    valid_mail = "e******89@gmail.com"
+    valid_password = "8*******"
     search_product = "ayakkabı"
 
     def test_check_trendyol_web(self):
