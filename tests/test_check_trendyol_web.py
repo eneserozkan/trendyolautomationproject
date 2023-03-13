@@ -1,9 +1,9 @@
 import time
 
-from base_page.basket_page import BasketPage
-from base_page.home_page import HomePage
-from base_page.login_page import LoginPage
-from base_page.product_page import ProductPage
+from pages.basket_page import BasketPage
+from pages.home_page import HomePage
+from pages.login_page import LoginPage
+from pages.product_page import ProductPage
 from tests.base_test import BaseTest
 
 
